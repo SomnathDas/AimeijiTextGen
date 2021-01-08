@@ -3,7 +3,7 @@ AimejiTextGen is a very basic web scraping mechanism to generate text effect ima
 
 ## Sample
 ![Go to horny jail, BONK!](Sample/1.png)
-![Neko is God of culture](Sample/2.jpeg) 
+![Neko is God of culture](Sample/2.png) 
 
 <p>
   </a>
